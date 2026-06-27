@@ -11,4 +11,4 @@ This repository documents my completion, solutions, and logic-building notes for
 ## 🎓 Completion Certificate
 Below is my official certificate of completion:
 
-![Certificate](02 - Algorithms & Problem-Solving Level 1.jpg)
+![Certificate](02 - Algorithms & Problem-Solving Level 1.jpeg)
