@@ -1,2 +1,14 @@
-# 02-Algorithms-and-Problem-Solving-Level-1
-My notes, problem-solving logic, and completion certificate for the Algorithms &amp; Problem-Solving Level 1 course.
+# Algorithms & Problem-Solving - Level 1
+
+This repository documents my completion, solutions, and logic-building notes for the **Algorithms & Problem-Solving Level 1** course on the ProgrammingAdvices platform, taught by Dr. Mohammed Abu-Hadhoud.
+
+## 🧠 What I Covered
+* Logic formulation and breaking down complex problems.
+* Building and tracing structural **Flowcharts**.
+* Writing clean and readable **Pseudocode**.
+* Understanding loops (`While` loops), conditions (`If-Else`, `Switch Case`), and control flow logic.
+
+## 🎓 Completion Certificate
+Below is my official certificate of completion:
+
+![Certificate](02 - Algorithms & Problem-Solving Level 1.jpg)
